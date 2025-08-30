@@ -59,6 +59,8 @@ Requisitos: entorno con soporte gráfico (X11/Wayland) si quieres ver la ventana
 
 ## Cómo funciona la IA (breve)
 
+<img width="798" height="601" alt="tankestina-funcionando" src="https://github.com/user-attachments/assets/0ad041a0-a1d9-4beb-994f-7c9e84560967" />
+
 La IA decide entre disparar o moverse. Sus puntos clave:
 
 - La dificultad (`NIVEL_DIFICULTAD`) afecta la variabilidad (precisión) — no la escala de potencia.
