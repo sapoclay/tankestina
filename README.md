@@ -1,5 +1,7 @@
 # Tankestina — Batalla Artillera
 
+<img width="1536" height="1024" alt="splash" src="https://github.com/user-attachments/assets/61cc1b74-c951-441d-8654-1d96d0bdfdb3" />
+
 Pequeño juego de artillería estilo 'Tank' escrito en Python + pygame.
 
 ## Resumen
